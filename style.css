@@ -1,0 +1,101 @@
+body{
+    background: #2A22C1;
+    overflow: hidden;
+    margin: 50px 80px;
+}
+#nav{
+    color: white;
+}
+#name{
+    font-family: Neue Haas Grotesk Display Pro;
+    font-size: 40px;
+    color: white;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    font-family: Neue Haas Grotesk Display Pro, Helvetica;
+    font-size: 20px;
+}
+nav a:hover {
+    text-decoration: none;
+    color: white;
+    font-family: Neue Haas Grotesk Display Pro, Helvetica;
+    font-size: 21px;
+    border-bottom: 2px solid white;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-size: 30px;
+}
+.icons a{
+    color: white;
+  
+}
+.icons a:hover{
+    color: white;
+    font-size: 32px;
+  
+}
+.middle{
+    text-decoration: none;
+    color: white;
+    font-family: Neue Haas Grotesk Display Pro, Helvetica;
+    font-size: 22px;
+    
+}
+.allimage{
+    justify-content: space-between;
+    display: flex;
+    margin-top: 10rem;
+}
+.image1 p{
+    font-size: 36px;
+    color: white;
+    font-family: Neue Haas Grotesk Display Pro, Helvetica;
+    letter-spacing: 2px;
+    margin-top: 1.3rem;
+
+}
+.image1 .second{
+    margin-top: -1.3rem;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+.image2 p{
+    font-size: 36px;
+    color: white;
+    font-family: Neue Haas Grotesk Display Pro, Helvetica;
+    letter-spacing: 2px;
+    margin-top: 1.3rem;
+
+}
+.image2 .second{
+    margin-top: -1.3rem;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+.image3 p{
+    font-size: 36px;
+    color: white;
+    font-family: Neue Haas Grotesk Display Pro, Helvetica;
+    letter-spacing: 2px;
+    margin-top: 1.3rem;
+
+}
+.image3 .second{
+    margin-top: -1.3rem;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
